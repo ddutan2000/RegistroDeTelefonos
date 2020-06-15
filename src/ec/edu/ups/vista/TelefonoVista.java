@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ec.ups.edu.vista;
+package ec.edu.ups.vista;
 import ec.edu.ups.controlador.ControladorTelefono;
 import ec.edu.ups.modelo.Telefono;
 import java.util.List;
